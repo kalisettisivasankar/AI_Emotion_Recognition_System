@@ -1,7 +1,7 @@
 Flask
 opencv-python-headless
 deepface
-numpy
+numpy<2.0.0
 pandas
 gunicorn
 tensorflow<=2.15.0
