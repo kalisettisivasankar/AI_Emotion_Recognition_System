@@ -1,8 +1,7 @@
 Flask
 opencv-python
 deepface
-tensorflow
-pyside6
 numpy
 pandas
 gunicorn
+tensorflow==2.19.0
