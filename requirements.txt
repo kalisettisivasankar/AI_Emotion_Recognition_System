@@ -1,0 +1,6 @@
+opencv-python
+deepface
+tensorflow
+pyside6
+numpy
+pandas
