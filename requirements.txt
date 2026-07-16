@@ -4,3 +4,4 @@ tensorflow
 pyside6
 numpy
 pandas
+gunicorn
